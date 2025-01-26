@@ -63,7 +63,7 @@ To begin using Testify, visit the deployed version online or follow these steps 
    ```  
 2. **Navigate to the project directory**:  
    ```sh  
-   cd QuizGen  
+   cd Testify  
    ```  
 3. **Install dependencies**:  
    ```sh  
@@ -77,7 +77,7 @@ To begin using Testify, visit the deployed version online or follow these steps 
    ```sh  
    npm run start  
    ```  
-   Access the app at `localhost:8080` and explore a variety of quizzes.  
+   Access the app at `localhost:8080` and explore a variety of Testify.  
 
 ---  
 
